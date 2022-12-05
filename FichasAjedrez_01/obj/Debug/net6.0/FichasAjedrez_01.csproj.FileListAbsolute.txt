@@ -1,0 +1,60 @@
+E:\Desktop\Sudoku\FichasAjedrez_01\bin\Debug\net6.0\FichasAjedrez_01.exe
+E:\Desktop\Sudoku\FichasAjedrez_01\bin\Debug\net6.0\FichasAjedrez_01.deps.json
+E:\Desktop\Sudoku\FichasAjedrez_01\bin\Debug\net6.0\FichasAjedrez_01.runtimeconfig.json
+E:\Desktop\Sudoku\FichasAjedrez_01\bin\Debug\net6.0\FichasAjedrez_01.dll
+E:\Desktop\Sudoku\FichasAjedrez_01\bin\Debug\net6.0\FichasAjedrez_01.pdb
+E:\Desktop\Sudoku\FichasAjedrez_01\obj\Debug\net6.0\FichasAjedrez_01.csproj.AssemblyReference.cache
+E:\Desktop\Sudoku\FichasAjedrez_01\obj\Debug\net6.0\FichasAjedrez_01.GeneratedMSBuildEditorConfig.editorconfig
+E:\Desktop\Sudoku\FichasAjedrez_01\obj\Debug\net6.0\FichasAjedrez_01.AssemblyInfoInputs.cache
+E:\Desktop\Sudoku\FichasAjedrez_01\obj\Debug\net6.0\FichasAjedrez_01.AssemblyInfo.cs
+E:\Desktop\Sudoku\FichasAjedrez_01\obj\Debug\net6.0\FichasAjedrez_01.csproj.CoreCompileInputs.cache
+E:\Desktop\Sudoku\FichasAjedrez_01\obj\Debug\net6.0\FichasAjedrez_01.dll
+E:\Desktop\Sudoku\FichasAjedrez_01\obj\Debug\net6.0\refint\FichasAjedrez_01.dll
+E:\Desktop\Sudoku\FichasAjedrez_01\obj\Debug\net6.0\FichasAjedrez_01.pdb
+E:\Desktop\Sudoku\FichasAjedrez_01\obj\Debug\net6.0\FichasAjedrez_01.genruntimeconfig.cache
+E:\Desktop\Sudoku\FichasAjedrez_01\obj\Debug\net6.0\ref\FichasAjedrez_01.dll
+E:\Documentos\CICLOS UPN\Ciclo 5\Analisis de Algor. y Estrat. de Progrm 6932\Semana 10 Programacion dinamica\Sudoku\FichasAjedrez_01\bin\Debug\net6.0\FichasAjedrez_01.exe
+E:\Documentos\CICLOS UPN\Ciclo 5\Analisis de Algor. y Estrat. de Progrm 6932\Semana 10 Programacion dinamica\Sudoku\FichasAjedrez_01\bin\Debug\net6.0\FichasAjedrez_01.deps.json
+E:\Documentos\CICLOS UPN\Ciclo 5\Analisis de Algor. y Estrat. de Progrm 6932\Semana 10 Programacion dinamica\Sudoku\FichasAjedrez_01\bin\Debug\net6.0\FichasAjedrez_01.runtimeconfig.json
+E:\Documentos\CICLOS UPN\Ciclo 5\Analisis de Algor. y Estrat. de Progrm 6932\Semana 10 Programacion dinamica\Sudoku\FichasAjedrez_01\bin\Debug\net6.0\FichasAjedrez_01.dll
+E:\Documentos\CICLOS UPN\Ciclo 5\Analisis de Algor. y Estrat. de Progrm 6932\Semana 10 Programacion dinamica\Sudoku\FichasAjedrez_01\bin\Debug\net6.0\FichasAjedrez_01.pdb
+E:\Documentos\CICLOS UPN\Ciclo 5\Analisis de Algor. y Estrat. de Progrm 6932\Semana 10 Programacion dinamica\Sudoku\FichasAjedrez_01\obj\Debug\net6.0\FichasAjedrez_01.csproj.AssemblyReference.cache
+E:\Documentos\CICLOS UPN\Ciclo 5\Analisis de Algor. y Estrat. de Progrm 6932\Semana 10 Programacion dinamica\Sudoku\FichasAjedrez_01\obj\Debug\net6.0\FichasAjedrez_01.GeneratedMSBuildEditorConfig.editorconfig
+E:\Documentos\CICLOS UPN\Ciclo 5\Analisis de Algor. y Estrat. de Progrm 6932\Semana 10 Programacion dinamica\Sudoku\FichasAjedrez_01\obj\Debug\net6.0\FichasAjedrez_01.AssemblyInfoInputs.cache
+E:\Documentos\CICLOS UPN\Ciclo 5\Analisis de Algor. y Estrat. de Progrm 6932\Semana 10 Programacion dinamica\Sudoku\FichasAjedrez_01\obj\Debug\net6.0\FichasAjedrez_01.AssemblyInfo.cs
+E:\Documentos\CICLOS UPN\Ciclo 5\Analisis de Algor. y Estrat. de Progrm 6932\Semana 10 Programacion dinamica\Sudoku\FichasAjedrez_01\obj\Debug\net6.0\FichasAjedrez_01.csproj.CoreCompileInputs.cache
+E:\Documentos\CICLOS UPN\Ciclo 5\Analisis de Algor. y Estrat. de Progrm 6932\Semana 10 Programacion dinamica\Sudoku\FichasAjedrez_01\obj\Debug\net6.0\FichasAjedrez_01.dll
+E:\Documentos\CICLOS UPN\Ciclo 5\Analisis de Algor. y Estrat. de Progrm 6932\Semana 10 Programacion dinamica\Sudoku\FichasAjedrez_01\obj\Debug\net6.0\refint\FichasAjedrez_01.dll
+E:\Documentos\CICLOS UPN\Ciclo 5\Analisis de Algor. y Estrat. de Progrm 6932\Semana 10 Programacion dinamica\Sudoku\FichasAjedrez_01\obj\Debug\net6.0\FichasAjedrez_01.pdb
+E:\Documentos\CICLOS UPN\Ciclo 5\Analisis de Algor. y Estrat. de Progrm 6932\Semana 10 Programacion dinamica\Sudoku\FichasAjedrez_01\obj\Debug\net6.0\FichasAjedrez_01.genruntimeconfig.cache
+E:\Documentos\CICLOS UPN\Ciclo 5\Analisis de Algor. y Estrat. de Progrm 6932\Semana 10 Programacion dinamica\Sudoku\FichasAjedrez_01\obj\Debug\net6.0\ref\FichasAjedrez_01.dll
+E:\Documentos\CICLOS UPN\Ciclo 5\Analisis de Algor. y Estrat. de Progrm 6932\Semana 10 Programacion dinamica\Sudoku y Reina\FichasAjedrez_01\bin\Debug\net6.0\FichasAjedrez_01.exe
+E:\Documentos\CICLOS UPN\Ciclo 5\Analisis de Algor. y Estrat. de Progrm 6932\Semana 10 Programacion dinamica\Sudoku y Reina\FichasAjedrez_01\bin\Debug\net6.0\FichasAjedrez_01.deps.json
+E:\Documentos\CICLOS UPN\Ciclo 5\Analisis de Algor. y Estrat. de Progrm 6932\Semana 10 Programacion dinamica\Sudoku y Reina\FichasAjedrez_01\bin\Debug\net6.0\FichasAjedrez_01.runtimeconfig.json
+E:\Documentos\CICLOS UPN\Ciclo 5\Analisis de Algor. y Estrat. de Progrm 6932\Semana 10 Programacion dinamica\Sudoku y Reina\FichasAjedrez_01\bin\Debug\net6.0\FichasAjedrez_01.dll
+E:\Documentos\CICLOS UPN\Ciclo 5\Analisis de Algor. y Estrat. de Progrm 6932\Semana 10 Programacion dinamica\Sudoku y Reina\FichasAjedrez_01\bin\Debug\net6.0\FichasAjedrez_01.pdb
+E:\Documentos\CICLOS UPN\Ciclo 5\Analisis de Algor. y Estrat. de Progrm 6932\Semana 10 Programacion dinamica\Sudoku y Reina\FichasAjedrez_01\obj\Debug\net6.0\FichasAjedrez_01.csproj.AssemblyReference.cache
+E:\Documentos\CICLOS UPN\Ciclo 5\Analisis de Algor. y Estrat. de Progrm 6932\Semana 10 Programacion dinamica\Sudoku y Reina\FichasAjedrez_01\obj\Debug\net6.0\FichasAjedrez_01.GeneratedMSBuildEditorConfig.editorconfig
+E:\Documentos\CICLOS UPN\Ciclo 5\Analisis de Algor. y Estrat. de Progrm 6932\Semana 10 Programacion dinamica\Sudoku y Reina\FichasAjedrez_01\obj\Debug\net6.0\FichasAjedrez_01.AssemblyInfoInputs.cache
+E:\Documentos\CICLOS UPN\Ciclo 5\Analisis de Algor. y Estrat. de Progrm 6932\Semana 10 Programacion dinamica\Sudoku y Reina\FichasAjedrez_01\obj\Debug\net6.0\FichasAjedrez_01.AssemblyInfo.cs
+E:\Documentos\CICLOS UPN\Ciclo 5\Analisis de Algor. y Estrat. de Progrm 6932\Semana 10 Programacion dinamica\Sudoku y Reina\FichasAjedrez_01\obj\Debug\net6.0\FichasAjedrez_01.csproj.CoreCompileInputs.cache
+E:\Documentos\CICLOS UPN\Ciclo 5\Analisis de Algor. y Estrat. de Progrm 6932\Semana 10 Programacion dinamica\Sudoku y Reina\FichasAjedrez_01\obj\Debug\net6.0\FichasAjedrez_01.dll
+E:\Documentos\CICLOS UPN\Ciclo 5\Analisis de Algor. y Estrat. de Progrm 6932\Semana 10 Programacion dinamica\Sudoku y Reina\FichasAjedrez_01\obj\Debug\net6.0\refint\FichasAjedrez_01.dll
+E:\Documentos\CICLOS UPN\Ciclo 5\Analisis de Algor. y Estrat. de Progrm 6932\Semana 10 Programacion dinamica\Sudoku y Reina\FichasAjedrez_01\obj\Debug\net6.0\FichasAjedrez_01.pdb
+E:\Documentos\CICLOS UPN\Ciclo 5\Analisis de Algor. y Estrat. de Progrm 6932\Semana 10 Programacion dinamica\Sudoku y Reina\FichasAjedrez_01\obj\Debug\net6.0\FichasAjedrez_01.genruntimeconfig.cache
+E:\Documentos\CICLOS UPN\Ciclo 5\Analisis de Algor. y Estrat. de Progrm 6932\Semana 10 Programacion dinamica\Sudoku y Reina\FichasAjedrez_01\obj\Debug\net6.0\ref\FichasAjedrez_01.dll
+E:\Documentos\CICLOS UPN\Ciclo 5\Analisis de Algor. y Estrat. de Progrm 6932\Semana 10 BackTracking Sudoku_Reina\Sudoku y Reina\FichasAjedrez_01\bin\Debug\net6.0\FichasAjedrez_01.exe
+E:\Documentos\CICLOS UPN\Ciclo 5\Analisis de Algor. y Estrat. de Progrm 6932\Semana 10 BackTracking Sudoku_Reina\Sudoku y Reina\FichasAjedrez_01\bin\Debug\net6.0\FichasAjedrez_01.deps.json
+E:\Documentos\CICLOS UPN\Ciclo 5\Analisis de Algor. y Estrat. de Progrm 6932\Semana 10 BackTracking Sudoku_Reina\Sudoku y Reina\FichasAjedrez_01\bin\Debug\net6.0\FichasAjedrez_01.runtimeconfig.json
+E:\Documentos\CICLOS UPN\Ciclo 5\Analisis de Algor. y Estrat. de Progrm 6932\Semana 10 BackTracking Sudoku_Reina\Sudoku y Reina\FichasAjedrez_01\bin\Debug\net6.0\FichasAjedrez_01.dll
+E:\Documentos\CICLOS UPN\Ciclo 5\Analisis de Algor. y Estrat. de Progrm 6932\Semana 10 BackTracking Sudoku_Reina\Sudoku y Reina\FichasAjedrez_01\bin\Debug\net6.0\FichasAjedrez_01.pdb
+E:\Documentos\CICLOS UPN\Ciclo 5\Analisis de Algor. y Estrat. de Progrm 6932\Semana 10 BackTracking Sudoku_Reina\Sudoku y Reina\FichasAjedrez_01\obj\Debug\net6.0\FichasAjedrez_01.csproj.AssemblyReference.cache
+E:\Documentos\CICLOS UPN\Ciclo 5\Analisis de Algor. y Estrat. de Progrm 6932\Semana 10 BackTracking Sudoku_Reina\Sudoku y Reina\FichasAjedrez_01\obj\Debug\net6.0\FichasAjedrez_01.GeneratedMSBuildEditorConfig.editorconfig
+E:\Documentos\CICLOS UPN\Ciclo 5\Analisis de Algor. y Estrat. de Progrm 6932\Semana 10 BackTracking Sudoku_Reina\Sudoku y Reina\FichasAjedrez_01\obj\Debug\net6.0\FichasAjedrez_01.AssemblyInfoInputs.cache
+E:\Documentos\CICLOS UPN\Ciclo 5\Analisis de Algor. y Estrat. de Progrm 6932\Semana 10 BackTracking Sudoku_Reina\Sudoku y Reina\FichasAjedrez_01\obj\Debug\net6.0\FichasAjedrez_01.AssemblyInfo.cs
+E:\Documentos\CICLOS UPN\Ciclo 5\Analisis de Algor. y Estrat. de Progrm 6932\Semana 10 BackTracking Sudoku_Reina\Sudoku y Reina\FichasAjedrez_01\obj\Debug\net6.0\FichasAjedrez_01.csproj.CoreCompileInputs.cache
+E:\Documentos\CICLOS UPN\Ciclo 5\Analisis de Algor. y Estrat. de Progrm 6932\Semana 10 BackTracking Sudoku_Reina\Sudoku y Reina\FichasAjedrez_01\obj\Debug\net6.0\FichasAjedrez_01.dll
+E:\Documentos\CICLOS UPN\Ciclo 5\Analisis de Algor. y Estrat. de Progrm 6932\Semana 10 BackTracking Sudoku_Reina\Sudoku y Reina\FichasAjedrez_01\obj\Debug\net6.0\refint\FichasAjedrez_01.dll
+E:\Documentos\CICLOS UPN\Ciclo 5\Analisis de Algor. y Estrat. de Progrm 6932\Semana 10 BackTracking Sudoku_Reina\Sudoku y Reina\FichasAjedrez_01\obj\Debug\net6.0\FichasAjedrez_01.pdb
+E:\Documentos\CICLOS UPN\Ciclo 5\Analisis de Algor. y Estrat. de Progrm 6932\Semana 10 BackTracking Sudoku_Reina\Sudoku y Reina\FichasAjedrez_01\obj\Debug\net6.0\FichasAjedrez_01.genruntimeconfig.cache
+E:\Documentos\CICLOS UPN\Ciclo 5\Analisis de Algor. y Estrat. de Progrm 6932\Semana 10 BackTracking Sudoku_Reina\Sudoku y Reina\FichasAjedrez_01\obj\Debug\net6.0\ref\FichasAjedrez_01.dll

@@ -1,0 +1,10 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = S10_Backtracking
+build_property.ProjectDir = E:\Documentos\CICLOS UPN\Ciclo 5\Analisis de Algor. y Estrat. de Progrm 6932\Semana 10 BackTracking Sudoku_Reina\Sudoku y Reina\S10_Backtracking\
